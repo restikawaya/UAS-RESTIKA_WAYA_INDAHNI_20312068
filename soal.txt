@@ -1,0 +1,18 @@
+Nama:Restika Waya Indahni
+NPM:20312068
+Kode Soal:B
+
+1. Sistem apa yang anda kembangkan?
+Jawab:sistem pelayanan.
+
+2. Permasalahan apa yang terjadi pada studi kasus anda?
+Jawab:data data pasien, rs, bidan, dan masalah antrian.
+
+3. Apa solusi yang dapat anda berikan pada permasalahan tersebut?
+Jawab:membuatkan website agar lebih mudah
+
+4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
+Jawab:mempermudah klink XYZ
+
+5. Apa saja kendala dan resiko yang mungkin akan anda hadapi selama pengembangan sistem?
+Jawab:eror webiste dan hostingnya
